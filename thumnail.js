@@ -13,6 +13,6 @@ export default function thumnail(arr, imgArr, style){
       </div>`
     }
   })
-  thum += "</main>"
+  thum += `</main>`
   return thum
 }
