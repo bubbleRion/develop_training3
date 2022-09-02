@@ -1,0 +1,38 @@
+{
+  "*" : {
+    "margin": 0,
+    "padding": 0
+  },
+  "header ul" : {
+    "display": "flex",
+    "list-style-type": "none",
+    "justify-content": "center"
+  },
+  "header ul li" : {
+    "margin": "10px"
+  },
+  "main>div" : {
+    "display": "flex",
+    "width": "80vw"
+  },
+  "main>div>img" : {
+    "width": "200px",
+    "height": "400px"
+  },
+  "main>div>div>div" : {
+    "margin": "20px 5px"
+  },
+  "main>div>div>p" : {
+    "margin": "20px 5px",
+    "font-size": "14px"
+  },
+  "hr" : {
+    "margin-bottom": "100px"
+  },
+  "nav" : {
+    "position": "absolute",
+    "right": "0",
+    "top": "700px",
+    "font-size": "2em"
+  }
+}
