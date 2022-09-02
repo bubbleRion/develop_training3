@@ -23,5 +23,3 @@ event(root, nav)
 const headStyle = document.createElement("style")
 headStyle.innerHTML = styleTrans(styleData);
 document.head.append(headStyle)
-
-
